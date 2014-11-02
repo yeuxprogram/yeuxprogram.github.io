@@ -1,0 +1,74 @@
+<!--///////////////////////////////////////////////////////
+       // Process section 
+       //////////////////////////////////////////////////////////-->
+
+  <div class="process-parlex">
+    <div class="parlex2-back">
+      <div class="w-container">
+        <div class="wrap">
+          <div class="process">
+            <h1 class="our-process-heading">SPEAKERS</h1>
+            <div class="sepreater"></div>
+          </div>
+          <div class="process-text">
+            <div class="process-text">Our process is straight forward, simple, &amp; successful.</div>
+      </div>
+	  <div class="w-row">
+              <div class="w-col w-col-3 services-column">
+                <div class="service-icon">
+                  <img src="images/services/Web-Design-Development.png">
+                </div>
+                <h4 class="service-head">Speaker 1<br>Mobile Design</h4>
+              </div>
+              <div class="w-col w-col-3">
+                <div class="service-icon">
+                  <img src="images/services/Branding-Identity.png">
+                </div>
+                <h4 class="service-head">Speaker 2<br>Mobile Design</h4>
+              </div>
+              <div class="w-col w-col-3">
+                                <div class="service-icon">
+                  <img src="images/services/Motion-Video.png">
+                </div>
+                <h4 class="service-head">Speaker 3<br>Mobile Design</h4>
+              </div>
+              <div class="w-col w-col-3">
+                <div class="service-icon">
+                  <img src="images/services/UX-UI.png">
+                </div>
+                <h4 class="service-head">Speaker 4<br>Mobile Design</h4>
+              </div>
+            </div>
+		<div class="w-row">
+              <div class="w-col w-col-3 services-column">
+                <div class="service-icon">
+                  <img src="images/services/Web-Design-Development.png">
+                </div>
+                <h4 class="service-head">Speaker 5<br>Mobile Design</h4>
+              </div>
+              <div class="w-col w-col-3">
+                <div class="service-icon">
+                  <img src="images/services/Branding-Identity.png">
+                </div>
+                <h4 class="service-head">Speaker 6<br>Mobile Design</h4>
+              </div>
+              <div class="w-col w-col-3">
+                                <div class="service-icon">
+                  <img src="images/services/Motion-Video.png">
+                </div>
+                <h4 class="service-head">Speaker 7<br>Mobile Design</h4>
+              </div>
+              <div class="w-col w-col-3">
+                <div class="service-icon">
+                  <img src="images/services/UX-UI.png">
+                </div>
+                <h4 class="service-head">Speaker 8<br>Mobile Design</h4>
+              </div>
+            </div>	
+	 </div>
+    </div>
+  </div>
+
+<!--///////////////////////////////////////////////////////
+       // End Process section 
+       //////////////////////////////////////////////////////////-->

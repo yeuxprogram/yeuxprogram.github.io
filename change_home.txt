@@ -1,0 +1,29 @@
+2. register now button
+3. check hover of menu button for register
+4. equal the font size of "check program curiculmn"
+6. Reduce the opacity of slider shadow background
+8. Irritating Effect in Associations Logo
+9. Fill in contact details
+10. add link to mentors fb, twitter profile
+11. increase map size
+12. content for about program
+13. content for personal goal
+14. generate a registeration form
+
+
+
+Tanvi Dubey f/l/t	
+Kirti Punia f/l/t
+Chandan f/l/t
+Pandurang Nayak l/t
+Shikha Agarwal f/t/
+Kanika Khanna t/f
+Astha Negi f/l
+Aditya Dev Sood t       (Startup Tunnel)
+Maya Carlson f/l
+Radhika Dutt t/
+Raghav Manchanda f  (shoutstr)
+Aman Thind f   (shoutstr)
+Deepshikha Balwani https://www.facebook.com/finddeepshikha?fref=nf
+Katyani Singh f
+
